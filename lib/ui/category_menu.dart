@@ -2,9 +2,6 @@ import 'package:finder/ui/griddashboard.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import '../veriler/model.dart';
-import '../veriler/model.dart';
-
 class CategoryMenu extends StatefulWidget {
   CategoryMenu({Key key}) : super(key: key);
 
