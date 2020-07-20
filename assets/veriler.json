@@ -1,0 +1,103 @@
+
+{
+    "example_data" : [
+        {
+            "id": "1",
+            "name": "Erzak1",
+            "list": [
+                {
+                    "id": "1",
+                    "type": "Bakliyat1"
+                    
+                },
+                {
+                    "id": "2",
+                    "type": "İçeçek1"
+                    
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Erzak2",
+            "list": [
+                {
+                    "id": "1",
+                    "type": "Bakliyat2"
+                    
+                },
+                {
+                    "id": "2",
+                    "type": "İçeçek2"
+                    
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Erzak3",
+            "list": [
+                {
+                    "id": "1",
+                    "type": "Bakliyat3"
+                    
+                },
+                {
+                    "id": "2",
+                    "type": "İçeçek3"
+                    
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Erzak4",
+            "list": [
+                {
+                    "id": "1",
+                    "type": "Bakliyat4"
+                    
+                },
+                {
+                    "id": "2",
+                    "type": "İçeçek4"
+                    
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Erzak5",
+            "list": [
+                {
+                    "id": "1",
+                    "type": "Bakliyat5"
+                    
+                },
+                {
+                    "id": "2",
+                    "type": "İçeçek5"
+                    
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Erzak6",
+            "list": [
+                {
+                    "id": "1",
+                    "type": "Bakliyat6"
+                    
+                },
+                {
+                    "id": "2",
+                    "type": "İçeçek6"
+                    
+                }
+            ]
+        }
+        
+    ]
+}
+
